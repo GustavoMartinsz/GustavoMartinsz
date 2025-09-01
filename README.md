@@ -6,7 +6,7 @@
 
 
 ## 📊 GitHub Stats
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavomartins&show_icons=true&theme=radical)
+![Gustavomartinsz GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavomartinsz&show_icons=true&theme=radical)
 
 ## 🧠 Conhecimentos em:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -16,4 +16,4 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
 
 ## 🧪 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomartins&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomartinsz&layout=compact&theme=radical)
